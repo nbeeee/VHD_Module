@@ -1,0 +1,121 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  VHD_Module.cpp
+e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1108): warning C4190: “TF_NewWhile”有指定的 C 链接，但返回了与 C 不兼容的 UDT“TF_WhileParams”
+  e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1064): note: 参见“TF_WhileParams”的声明
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(31): note: 参见对正在编译的 类 模板 实例化 "Eigen::Tensor<T,1,1,IndexType>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor_types.h(105): note: 参见对正在编译的 类 模板 实例化 "Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(480): warning C4244: “return”: 从“const tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(485): warning C4244: “return”: 从“tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\cc\framework\ops.h(91): warning C4244: “return”: 从“tensorflow::uint64”转换到“size_t”，可能丢失数据
+  PersonDetection.cpp
+e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1108): warning C4190: “TF_NewWhile”有指定的 C 链接，但返回了与 C 不兼容的 UDT“TF_WhileParams”
+  e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1064): note: 参见“TF_WhileParams”的声明
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): warning C4003: 类函数宏的调用“max”参数不足
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2059: 语法错误:“)”
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(31): note: 参见对正在编译的 类 模板 实例化 "Eigen::Tensor<T,1,1,IndexType>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor_types.h(105): note: 参见对正在编译的 类 模板 实例化 "Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(480): warning C4244: “return”: 从“const tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(485): warning C4244: “return”: 从“tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\cc\framework\ops.h(91): warning C4244: “return”: 从“tensorflow::uint64”转换到“size_t”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(73): warning C4244: “初始化”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(211): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(211): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(211): error C2059: 语法错误:“)”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(212): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(212): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(212): error C2059: 语法错误:“)”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(214): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(214): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(214): error C2059: 语法错误:“)”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(215): error C2589: “(”:“::”右边的非法标记
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(215): error C2062: 意外的类型“unknown-type”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(215): error C2059: 语法错误:“)”
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(219): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(220): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(221): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(223): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(224): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(225): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...

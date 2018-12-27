@@ -1,0 +1,136 @@
+﻿  stdafx.cpp
+  PersonDetection.cpp
+e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1108): warning C4190: “TF_NewWhile”有指定的 C 链接，但返回了与 C 不兼容的 UDT“TF_WhileParams”
+  e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1064): note: 参见“TF_WhileParams”的声明
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): warning C4018: “>=”: 有符号/无符号不匹配
+e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(31): note: 参见对正在编译的 类 模板 实例化 "Eigen::Tensor<T,1,1,IndexType>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor_types.h(105): note: 参见对正在编译的 类 模板 实例化 "Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(480): warning C4244: “return”: 从“const tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(485): warning C4244: “return”: 从“tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\cc\framework\ops.h(91): warning C4244: “return”: 从“tensorflow::uint64”转换到“size_t”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(73): warning C4244: “初始化”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(211): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(212): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(214): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(215): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(219): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(220): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(221): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(223): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(224): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(225): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(640): warning C4244: “=”: 从“T”转换到“_Ty”，可能丢失数据
+          with
+          [
+              T=tensorflow::int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(674): note: 参见对正在编译的函数 模板 实例化“void tensorflow::Tensor::FillDimsAndValidateCompatibleShape<1>(tensorflow::gtl::ArraySlice<tensorflow::int64>,std::array<T,1> *) const”的引用
+          with
+          [
+              T=int
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(304): note: 参见对正在编译的函数 模板 实例化“Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer> tensorflow::Tensor::shaped<T,1>(tensorflow::gtl::ArraySlice<tensorflow::int64>)”的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\vhd_module\vhd_module\persondetection.cpp(62): note: 参见对正在编译的函数 模板 实例化“Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer> tensorflow::Tensor::flat<float>(void)”的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  VHD_Module.cpp
+e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1108): warning C4190: “TF_NewWhile”有指定的 C 链接，但返回了与 C 不兼容的 UDT“TF_WhileParams”
+  e:\vscodespace\tensorflow\include\tensorflow\c\c_api.h(1064): note: 参见“TF_WhileParams”的声明
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(229): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(230): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(231): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(232): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(233): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vscodespace\tensorflow\include\tensorflow\core\platform\default\logging.h(234): warning C4018: “>=”: 有符号/无符号不匹配
+e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  e:\git\vcpkg\installed\x86-windows\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(31): note: 参见对正在编译的 类 模板 实例化 "Eigen::Tensor<T,1,1,IndexType>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor_types.h(105): note: 参见对正在编译的 类 模板 实例化 "Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer>" 的引用
+          with
+          [
+              T=float,
+              IndexType=Eigen::DenseIndex
+          ]
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(480): warning C4244: “return”: 从“const tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\graph\graph.h(485): warning C4244: “return”: 从“tensorflow::int64”转换到“int”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\cc\framework\ops.h(91): warning C4244: “return”: 从“tensorflow::uint64”转换到“size_t”，可能丢失数据
+e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(640): warning C4244: “=”: 从“T”转换到“_Ty”，可能丢失数据
+          with
+          [
+              T=tensorflow::int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(674): note: 参见对正在编译的函数 模板 实例化“void tensorflow::Tensor::FillDimsAndValidateCompatibleShape<1>(tensorflow::gtl::ArraySlice<tensorflow::int64>,std::array<T,1> *) const”的引用
+          with
+          [
+              T=int
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\core\framework\tensor.h(304): note: 参见对正在编译的函数 模板 实例化“Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer> tensorflow::Tensor::shaped<T,1>(tensorflow::gtl::ArraySlice<tensorflow::int64>)”的引用
+          with
+          [
+              T=int,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\cc\framework\ops.h(159): note: 参见对正在编译的函数 模板 实例化“Eigen::TensorMap<Eigen::Tensor<T,1,1,IndexType>,16,Eigen::MakePointer> tensorflow::Tensor::flat<RealT>(void)”的引用
+          with
+          [
+              T=int,
+              IndexType=Eigen::DenseIndex
+          ]
+  e:\vscodespace\tensorflow\include\tensorflow\cc\ops\logging_ops.h(217): note: 参见对正在编译的函数 模板 实例化“tensorflow::Input::Initializer::Initializer<int,void>(const std::initializer_list<ptrdiff_t> &,const tensorflow::TensorShape &)”的引用
+    正在创建库 E:\vscodespace\VHD_Module\Release\VHD_Module.lib 和对象 E:\vscodespace\VHD_Module\Release\VHD_Module.exp
+  正在生成代码
+  All 668 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  VHD_Module.vcxproj -> E:\vscodespace\VHD_Module\Release\VHD_Module.dll
